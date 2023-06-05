@@ -1,5 +1,5 @@
 # 0x06. Star Wars API
-## Task 0
+## Task
     Write a script that prints all characters of a Star Wars movie:
 
     The first positional argument passed is the Movie ID - example: 3 = “Return of the Jedi”
